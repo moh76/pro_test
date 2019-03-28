@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 62c30d9c5be0b544b9d3b88237595713
+timeCreated: 1537154338
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_divani
+  fontNames:
+  - F_divani
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

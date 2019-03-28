@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 504597a20d3ff1b4c88d3ce55d9f12e1
+timeCreated: 1537154337
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_hamed
+  fontNames:
+  - F_hamed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

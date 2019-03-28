@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58bc29e0350cbd94d92501054477f211
+timeCreated: 1537154337
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_firooz xBold
+  fontNames:
+  - F_firooz xBold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 065dc6ff882379a48a9c9cb60f661efb
+timeCreated: 1537154333
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_saman
+  fontNames:
+  - F_saman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

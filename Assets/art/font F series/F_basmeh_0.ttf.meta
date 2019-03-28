@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b394fd76660e9bf4da6bd453d362f70a
+timeCreated: 1537154341
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_basmeh
+  fontNames:
+  - F_basmeh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

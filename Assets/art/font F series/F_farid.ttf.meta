@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 36be3d660722e8e48a35bbda772dd7db
+timeCreated: 1537154335
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_farid
+  fontNames:
+  - F_farid
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

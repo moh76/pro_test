@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\script\move.cs]
+	Fragments : 2
+		[ 0] : Line:   17	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   25	InputMethod   GetAxis             	("Jump")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [E:/Android/makeGame/pro/pro2/CF2-Data/Script-Backups/2018-09-17-13-30\Assets-After/\script\move.cs] to [E:/Android/makeGame/pro/pro2/Assets/\script\move.cs]
+
+Overwriting COMPLETED!

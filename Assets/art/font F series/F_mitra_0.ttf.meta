@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d2f29ba676d2f9246a7f7d87d1c87a62
+timeCreated: 1537154343
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_mitra
+  fontNames:
+  - F_mitra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

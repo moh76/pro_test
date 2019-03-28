@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7ee86af84d23306448416ab521d88954
+timeCreated: 1537154339
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kufi
+  fontNames:
+  - F_kufi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

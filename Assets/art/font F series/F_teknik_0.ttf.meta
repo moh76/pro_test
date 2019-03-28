@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 76bc3c7b7d4b6864eb20024ea20da26a
+timeCreated: 1537154339
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_teknik
+  fontNames:
+  - F_teknik
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

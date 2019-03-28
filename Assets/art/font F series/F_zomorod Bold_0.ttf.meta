@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5ef9f3126bf0e1149b3473212ac97d46
+timeCreated: 1537154338
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_zomorod Bold
+  fontNames:
+  - F_zomorod Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

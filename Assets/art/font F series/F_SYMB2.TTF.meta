@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f837f4dae20f014a88910e16d73767a
+timeCreated: 1537154335
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_symbol 2
+  fontNames:
+  - F_symbol 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

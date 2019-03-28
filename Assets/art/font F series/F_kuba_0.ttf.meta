@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8fa6c9c644918a498b63923c01a19fe
+timeCreated: 1537154343
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kuba
+  fontNames:
+  - F_kuba
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da0836efd66a6a14ca053a2f569ca115
+timeCreated: 1537154343
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_tahoma
+  fontNames:
+  - F_tahoma
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 271fceb0120a0ac40b220029162b5a38
+timeCreated: 1537154334
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_heshmat
+  fontNames:
+  - F_heshmat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

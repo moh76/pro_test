@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 858762364fc694f4fae668565d2a37e3
+timeCreated: 1537154340
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_shemshak
+  fontNames:
+  - F_shemshak
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

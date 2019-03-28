@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ef58ad6f63c94be4d855a7f046a34ced
+timeCreated: 1537154345
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_susan
+  fontNames:
+  - F_susan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

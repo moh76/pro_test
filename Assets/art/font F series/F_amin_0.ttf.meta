@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dce608b3a7e0c764db902a3ff4ccc61c
+timeCreated: 1537154344
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_amin
+  fontNames:
+  - F_amin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 65b3bc6c009d6504890e75ef28574a3f
+timeCreated: 1537154338
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_akram
+  fontNames:
+  - F_akram
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

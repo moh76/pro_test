@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 54ab0fddb94657d419047ec6dbe2ae12
+timeCreated: 1537154337
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_ojan Italic
+  fontNames:
+  - F_ojan Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

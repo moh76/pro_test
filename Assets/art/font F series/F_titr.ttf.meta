@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9795d7058b6b6fe4692642041e78fcbf
+timeCreated: 1537154340
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_titr
+  fontNames:
+  - F_titr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

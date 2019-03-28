@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0838ffe3194a50145972c541b770eab6
+timeCreated: 1537154333
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_noor
+  fontNames:
+  - F_noor
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

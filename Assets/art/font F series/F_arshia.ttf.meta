@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05da6d9e8ab78494c9ad5808f4a5c51f
+timeCreated: 1537154333
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_arshia
+  fontNames:
+  - F_arshia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

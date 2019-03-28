@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f3275557a52a9854ebf016329d33f11b
+timeCreated: 1537154345
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_yagot Bold
+  fontNames:
+  - F_yagot Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4cfb35123277e964ea5169d1c8873e00
+timeCreated: 1537154337
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_ohod
+  fontNames:
+  - F_ohod
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

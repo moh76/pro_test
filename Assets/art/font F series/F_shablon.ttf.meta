@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1521305b6fc981245814d77b9b52efcb
+timeCreated: 1537154334
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_shablon
+  fontNames:
+  - F_shablon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

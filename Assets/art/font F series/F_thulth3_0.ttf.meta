@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c7c4c4ecc256eb4ca7910a515b44cb4
+timeCreated: 1537154338
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_thulth3
+  fontNames:
+  - F_thulth3
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 20a3dbb1fbdb8684fb2a559e6a7ced87
+timeCreated: 1537154334
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_yekan
+  fontNames:
+  - F_yekan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

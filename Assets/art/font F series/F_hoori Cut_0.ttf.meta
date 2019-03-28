@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c5ed0479eaf863643a4d64511ea12576
+timeCreated: 1537154342
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_hoori Cut
+  fontNames:
+  - F_hoori Cut
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

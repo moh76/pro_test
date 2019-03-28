@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f5be80451badffa49b24153e3a2a4b6c
+timeCreated: 1537154346
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_trad
+  fontNames:
+  - F_trad
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

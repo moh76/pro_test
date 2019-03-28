@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77fcf3531bec6d341b1f68f9b03bf5fa
+timeCreated: 1537154339
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_motadel
+  fontNames:
+  - F_motadel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

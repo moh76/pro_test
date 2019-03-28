@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 06c8702f784c64b44a2270acab8f0019
+timeCreated: 1537154333
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_larzeh
+  fontNames:
+  - F_larzeh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c686438be55db22419748692a9eeac5c
+timeCreated: 1537154342
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_shiraz
+  fontNames:
+  - F_shiraz
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

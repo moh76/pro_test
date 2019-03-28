@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ef4abe3bbf2ca0f4b8a4d9d46d0fe612
+timeCreated: 1537154345
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_naght
+  fontNames:
+  - F_naght
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

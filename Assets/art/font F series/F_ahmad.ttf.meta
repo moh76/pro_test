@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 542cccf1c2a5d044bbdeab0983c58f94
+timeCreated: 1537154337
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_ahmad
+  fontNames:
+  - F_ahmad
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

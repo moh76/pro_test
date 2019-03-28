@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 744607c8a08ec1d4f9bc93d0088f57dc
+timeCreated: 1537154339
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_maryam
+  fontNames:
+  - F_maryam
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

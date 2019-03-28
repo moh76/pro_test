@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 10f6159e07b2a4f4f80355cd5ecf1586
+timeCreated: 1537154333
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_mehran
+  fontNames:
+  - F_mehran
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

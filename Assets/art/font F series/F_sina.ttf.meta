@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 872f8e18092ad924c8a6c75c468e481c
+timeCreated: 1537154340
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_sina
+  fontNames:
+  - F_sina
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

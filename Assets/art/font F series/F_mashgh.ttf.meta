@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 492e17da2490b1747a04c7a3c9e6f26d
+timeCreated: 1537154336
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_mashgh
+  fontNames:
+  - F_mashgh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f345a2ebdbd43eb41a939b3e1e0d6151
+timeCreated: 1537154345
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_pooneh
+  fontNames:
+  - F_pooneh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

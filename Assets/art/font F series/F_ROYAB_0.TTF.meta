@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fd5f372d0c6628545a86f89b5c48f17f
+timeCreated: 1537154346
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_roya Bold
+  fontNames:
+  - F_roya Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

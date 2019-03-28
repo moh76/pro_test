@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cba5cc18464fd8d41a7c4284335f7cd4
+timeCreated: 1537154342
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_hoori Pich
+  fontNames:
+  - F_hoori Pich
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

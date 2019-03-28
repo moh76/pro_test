@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f40443033b9317e40ab39d1feb8f93a7
+timeCreated: 1537154345
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_reyhan
+  fontNames:
+  - F_reyhan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

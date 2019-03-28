@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e5759703011173b4f90a01de6f2ccd21
+timeCreated: 1537154344
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_trafic Bold
+  fontNames:
+  - F_trafic Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

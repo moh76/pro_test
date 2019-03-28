@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f46d7e1be4c6d774889fa2f55af3f0d8
+timeCreated: 1537154346
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_rahman
+  fontNames:
+  - F_rahman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
